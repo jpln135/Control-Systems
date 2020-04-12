@@ -1,3 +1,7 @@
+#Coded by J. Prabhath
+#14th April, 2020
+#Released under GNU GPL
+
 import numpy as np
 import matplotlib.pyplot as plt
 
